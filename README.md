@@ -1,6 +1,7 @@
 # Revolut Card Draw (Qt + ADB)
 
 Interactive desktop tool to preview an Android screen, crop an allowed drawing area, and replay SVG/CSV gestures via ADB touches.
+<img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/ce3eb8ae-cac6-4711-9b4f-c14ccdd8cdc4" />
 
 ## What It Does
 
